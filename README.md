@@ -1,14 +1,9 @@
 # Daftar Praktikum 
 ---
-### UCP 1
-- [UCP 1 Praktikum](ucp1_20230140175.md)
-
-### Daftar Modul
 - [Praktikum 1](/tugas/praktikum1.md)
-- [Praktikum 2](Praktikum2.md)
-- [Praktikum 3](Praktikum3.md)
-- [Praktikum 4](Praktikum4.md)
-- [Praktikum 5](Praktikum5.md)
-- [Praktikum 6](Praktikum6.md)
-- [Praktikum 7](Praktikum7.md)
-- [Praktikum 9](Praktikum9.md)
+- [Praktikum 2](/tugas/praktikum2.md)
+- [Praktikum 3](/tugas/praktikum3.md)
+- [Praktikum 5](/tugas/praktikum5.md)
+- [Praktikum 6](/tugas/praktikum6.md)
+- [Praktikum 7](/tugas/praktikum7.md)
+- [Praktikum 9](/tugas/praktikum9.md)
