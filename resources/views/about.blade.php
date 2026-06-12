@@ -8,8 +8,8 @@
     <div class="py-6">
         <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 shadow-sm sm:rounded-lg p-6 text-white">
-                <p><strong>Nama:</strong> Christian Ridwan</p>
-                <p><strong>NIM:</strong> 20230140185</p>
+                <p><strong>Nama:</strong> Afnan Asilah Prayogi</p>
+                <p><strong>NIM:</strong> 20230140153</p>
                 <p><strong>Program Studi:</strong> Teknologi Informasi</p>
                 <p><strong>Hobi:</strong> Bisnis</p>
             </div>
